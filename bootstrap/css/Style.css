@@ -1,0 +1,42 @@
+body {
+
+    font-size: 12px !important;
+    font-family: sans-serif;
+}
+header {
+    background-color : #a8cbff
+}
+
+nav {
+    background-color : #cc6600
+}
+
+main {
+    background-color : yellowgreen;
+}
+
+footer {
+    background-color : rgb(127,8,49);
+}
+
+.fondContainer{
+    background-color : #999;
+}
+
+.fondLogo{
+    background-color: cadetblue;
+}
+
+.fondBandeau{
+    background-color: blueviolet;
+}
+
+img{
+    max-width:100%;
+    max-height:100%;
+}
+footer{
+    text-align: center;
+    background-color: #cc6600;
+    color: #fff;
+}

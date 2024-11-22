@@ -1,0 +1,57 @@
+body{
+    background-color: #ba08f3;
+    padding: 20px;
+    font-size: 11px;
+    font-family: Verdana, serif;
+    color: yellow;
+}
+caption{
+    padding-left: 50px;
+    color: black;
+}
+table{
+    font-family: KacstOffice;
+    background-color: yellow;
+    padding-left: 50px;
+    color: black;
+}
+a{
+    font-family: KacstOffice;
+    padding-left: 20px;
+    color: yellow;
+}
+h1{
+    font-family: KacstOffice;
+    color: yellow;
+}
+h4{
+    font-family: KacstOffice;
+    padding-left: 250px;
+    color: yellow;
+}
+p{
+    font-family: KacstOffice;
+    background: green;
+    padding-left: 250px;
+}
+erreur{
+    color: red;
+}
+#succes{
+    color: rgb(127,27,88);
+}
+a:hover{
+    text-transform: uppercase;
+}
+textarea{
+    color: yellow;
+}
+a:link{
+    color:#999;
+}
+a:visited{
+    color: #666;
+}
+a:hover{
+    color:#333;
+}
